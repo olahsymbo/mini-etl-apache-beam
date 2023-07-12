@@ -1,7 +1,7 @@
 import os.path
 import sys
 
-HOME = "/Users/Olasimbo.Arigbabu/Documents/mini-etl"
+HOME = "/Users/mini-etl"
 sys.path.append(HOME)
 
 import apache_beam as beam
