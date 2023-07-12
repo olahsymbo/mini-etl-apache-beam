@@ -1,4 +1,4 @@
-import os.path
+import os
 import sys
 
 HOME = "/Users/mini-etl"
