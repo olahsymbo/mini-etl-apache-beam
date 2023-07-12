@@ -63,5 +63,5 @@ def transformation_function(data) -> str:
 
 
 source = "data/raw/customer.txt"
-dest = "data/consolidated/customer.csv"
+dest = "data/consolidated/customer.txt"
 etl_pipeline(data_source=source, data_destination=dest)
