@@ -19,7 +19,7 @@ This repository contains an example ETL (Extract, Transform, Load) pipeline impl
 Clone the repository: 
 
 ```
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/olahsymbo/mini-etl-apache-beam.git
 ```
 
 ### Install the required dependencies:
@@ -44,7 +44,7 @@ The transformed data will be written to the specified output file.
 
 You can customize the pipeline by modifying the following components:
 
-- *Transformation Logic:* Update the transform_function in `pipeline/customer_pipeline.py` to include your specific data processing logic.
-- *Additional Transformations:* Extend the pipeline by adding more transformations based on your requirements.
-- *Input Data Format:* Adjust the reading logic in etl_pipeline to handle your specific input file format (e.g., delimiter, encoding).
-- *Output Data Sink:* Modify the writing logic in etl_pipeline to use a different output sink, such as a database or cloud storage.
+- **Transformation Logic:** Update the transform_function in `pipeline/customer_pipeline.py` to include your specific data processing logic.
+- **Additional Transformations:** Extend the pipeline by adding more transformations based on your requirements.
+- **Input Data Format:** Adjust the reading logic in etl_pipeline to handle your specific input file format (e.g., delimiter, encoding).
+- **Output Data Sink:** Modify the writing logic in etl_pipeline to use a different output sink, such as a database or cloud storage.
