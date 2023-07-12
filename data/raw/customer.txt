@@ -1,0 +1,3 @@
+customer_id,date,gender,age
+OJ8-7899-JNAM,2023-07-10 11:00:00,male,78
+HAJ-0900-DKAS,2022-03-11 19:18:11,female,10
