@@ -1,4 +1,4 @@
-[![mini-etl-apache-beam](https://github.com/olahsymbo/mini-etl-apache-beam/actions/workflows/etl-ci.yaml/badge.svg)](https://github.com/olahsymbo/mini-etl-apache-beam/actions/workflows/etl-ci.yaml)
+[![mini-etl-apache-beam](https://github.com/olahsymbo/mini-etl-apache-beam/actions/workflows/etl-ci.yaml/badge.svg?branch=main)](https://github.com/olahsymbo/mini-etl-apache-beam/actions/workflows/etl-ci.yaml)
 
 # Apache Beam ETL Pipeline
 
