@@ -1,3 +1,5 @@
+[![mini-etl-apache-beam](https://github.com/olahsymbo/mini-etl-apache-beam/actions/workflows/etl-ci.yaml/badge.svg)](https://github.com/olahsymbo/mini-etl-apache-beam/actions/workflows/etl-ci.yaml)
+
 # Apache Beam ETL Pipeline
 
 This repository contains an example ETL (Extract, Transform, Load) pipeline implemented using Apache Beam in Python. The pipeline is designed to process customer data.
